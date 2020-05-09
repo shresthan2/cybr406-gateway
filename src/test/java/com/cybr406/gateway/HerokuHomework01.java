@@ -51,7 +51,7 @@ class HerokuHomework01 {
 
 	// You must update baseUrl to match your deployed gateway project URL.
 	// It should resemble the value that is there currently.
-	private static final String baseUrl = "https://cybr406-blog.herokuapp.com";
+	private static final String baseUrl = "https://shresthan2-406-gateway.herokuapp.com";
 
 	private WebClient webClient = WebClient.create(baseUrl);
 
